@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Digital Atlas</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <!--search section-->
+      <div class="searchSection">
+        <input
+          type="text"
+          id="countryInput"
+          placeholder="Type a country name.."
+        />
+        <button id="searchButton">Search</button>
+        <p id="message"></p>
+      </div>
+
+      <!--main content-->
+      <div class="mainContent">
+        <div id="results" class="resultsContainer"></div>
+      </div>
+
+      <!--image content-->
+      <div class="imageSection">
+        <div id="flagContainer" class="imageContainer"></div>
+        <div id="coatOfArmsContainer" class="imageContainer"></div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
