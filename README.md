@@ -45,4 +45,4 @@ Streamer's Channel: [Mayan Wolfe](https://www.twitch.tv/mayanwolfe)
 ## Author
 
 - LinkedIn - [@avion-cobb](https://www.linkedin.com/in/avion-cobb/)
-- Twitter - [@Avion_Cobb](https://twitter.com/Avion_Cobb)
+- Twitter - [@Blvck_Lotus003](https://twitter.com/Blvck_Lotus003)
