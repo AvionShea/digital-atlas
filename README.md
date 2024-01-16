@@ -37,10 +37,12 @@ Ends server
 - CSS
 - Node.js
 - Express.js
+- API
 
 ## Links
 
 Streamer's Channel: [Mayan Wolfe](https://www.twitch.tv/mayanwolfe)
+API: [Rest Country](https://restcountries.com/)
 
 ## Author
 
