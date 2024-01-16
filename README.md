@@ -42,6 +42,7 @@ Ends server
 ## Links
 
 Streamer's Channel: [Mayan Wolfe](https://www.twitch.tv/mayanwolfe)
+
 API: [Rest Country](https://restcountries.com/)
 
 ## Author
